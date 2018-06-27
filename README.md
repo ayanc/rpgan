@@ -80,4 +80,4 @@ We also provide a script for traditional training---`baseline_train.py`---with a
 
 ### Acknowledgments
 
-This work was supported by the National Science Foundation under award no. [IIS-1618021](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1618021). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors, and do not necessarily reflect the views of the National Science Foundation.
+This work was supported by the National Science Foundation under award no. [IIS-1820693](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1820693). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors, and do not necessarily reflect the views of the National Science Foundation.
